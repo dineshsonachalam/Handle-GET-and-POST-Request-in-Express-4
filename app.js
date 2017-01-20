@@ -2,7 +2,7 @@ var express        =        require("express");
 var bodyParser     =        require("body-parser");
 var app            =        express();
 /*
-  Express version 4 and above requires extra middle-ware layer to handle POST request.
+  Express version  and above requires extra middle-ware layer to handle POST request.
   This middle-ware is called as ‘bodyParser’.
   Install it by: npm install --save body-parser
 
